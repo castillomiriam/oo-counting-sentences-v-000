@@ -7,9 +7,9 @@ class String
   end
 
   def question?
-    self.end_with("?")
+    self.end_with?("?")
   end
-    self.end_with("!")
+    self.end_with?("!")
   def exclamation?
 
   end
