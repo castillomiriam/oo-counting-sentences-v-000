@@ -21,3 +21,4 @@ class String
         return 0
   end
 end
+end
