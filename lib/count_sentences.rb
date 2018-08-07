@@ -9,9 +9,9 @@ class String
   def question?
     self.end_with?("?")
   end
-    self.end_with?("!")
-  def exclamation?
 
+  def exclamation?
+    self.end_with?("!")
   end
 
   def count_sentences
